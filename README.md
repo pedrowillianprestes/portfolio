@@ -11,7 +11,6 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pedroprestes)
-* [Medium](https://medium.com/@pedrowcprestes)
 
 
 ## Projetos:
