@@ -16,6 +16,6 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Análise dos Dados do Airbnb para Lisboa:** https://bityli.com/BVzgCWMC
+* **Análise dos Dados do Airbnb para Lisboa:** https://bityli.com/SGPsGCteP
 
 ---
